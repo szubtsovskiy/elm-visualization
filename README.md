@@ -1,5 +1,9 @@
 # ![Elm-visualization](https://code.gampleman.eu/elm-visualization/misc/Logo-600.png)
 
+## THIS IS JUST A FORK TO FIX A RENAMED DEPENDENCY. ORIGINAL LIBRARY CODE DID NOT CHANGE.
+                             
+**ALL LINKS LEAD TO THE ORIGINAL PACKAGE REPO AS WELL**
+
 [Tutorial](https://github.com/gampleman/elm-visualization/blob/master/docs/INTRO.md) | [Docs](https://package.elm-lang.org/packages/gampleman/elm-visualization/2.4.0/) | [Examples](https://elm-visualization.netlify.com/) | [GitHub](https://github.com/gampleman/elm-visualization) | [Changelog](https://github.com/gampleman/elm-visualization/releases) | `#visualization` on [Elm slack](https://elmlang.herokuapp.com)
 
 This project is designed to give you all the tools needed to build data visualizations.
@@ -20,7 +24,7 @@ You will need to have [elm](https://elm-lang.org) installed. Then run:
 
 ```sh
 elm init
-elm install gampleman/elm-visualization
+elm install szubtsovskiy/elm-visualization
 ```
 
 However, there are other packages that you will likely need to produce a visualization. Which depends somewhat on what you want to achieve, here are some common ones:
