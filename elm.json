@@ -3,7 +3,7 @@
     "name": "szubtsovskiy/elm-visualization",
     "summary": "A data visualization package for Elm (dependency fix)",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Scale",
         "Scale.Color",
